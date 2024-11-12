@@ -1,0 +1,97 @@
+{
+    "redis": {
+        "production": {
+            "host": "prod-redis-server",
+            "port": 6379
+        },
+        "development": {
+            "host": "dev-redis-server",
+            "port": 6379
+        },
+        "staging": {
+            "host": "staging-redis-server",
+            "port": 6379
+        }
+    },
+    "mongo": {
+        "production": {
+            "server": "prod-mongo-server",
+            "port": 27017,
+            "username": "prodUser",
+            "password": "prodPass",
+            "database": "prodDatabase"
+        },
+        "development": {
+            "server": "dev-mongo-server",
+            "port": 27017,
+            "username": "devUser",
+            "password": "devPass",
+            "database": "devDatabase"
+        },
+        "staging": {
+            "server": "staging-mongo-server",
+            "port": 27017,
+            "username": "stagingUser",
+            "password": "stagingPass",
+            "database": "stagingDatabase"
+        }
+    },
+    "mysql": {
+        "production": {
+            "host": "prod-mysql-server",
+            "port": 3306,
+            "user": "prodUser",
+            "password": "prodPass",
+            "database": "prodDatabase"
+        },
+        "development": {
+            "host": "dev-mysql-server",
+            "port": 3306,
+            "user": "devUser",
+            "password": "devPass",
+            "database": "devDatabase"
+        },
+        "staging": {
+            "host": "staging-mysql-server",
+            "port": 3306,
+            "user": "stagingUser",
+            "password": "stagingPass",
+            "database": "stagingDatabase"
+        }
+    },
+    "kafkaConsumers": [
+        {
+            "brokers": ["localhost:9092"],
+            "topic": "countries",
+            "group_id": "Countries-Group-1",
+            "log_file": "consumer.log",
+            "log_prefix": "hl7_countries",
+            "debug_mode": true,
+            "handler_name": "handler1",
+            "settings": {
+                "mappings": {
+                    "code": "12345",
+                    "replacewith": "232323"
+                },
+                "lab_codes": {
+                    "ignore": ["one", "two", "three"],
+                    "rules": [
+                        {
+                            "name": "name",
+                            "action": "dance"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "brokers": ["localhost:9092"],
+            "topic": "cities",
+            "group_id": "Cities-Group",
+            "log_file": "consumer.log",
+            "log_prefix": "hl7_cities",
+            "debug_mode": false,
+            "handler_name": "handler2"
+        }
+    ]
+}

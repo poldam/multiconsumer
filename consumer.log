@@ -1,0 +1,694 @@
+hl7_countries 2024/11/05 09:38:00 consumer.go:48: INFO: Handler1 processing message with topic: countries
+hl7_countries 2024/11/05 09:38:00 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[] mappings:map[]]
+hl7_countries 2024/11/05 09:38:00 consumer.go:48: INFO: Successfully processed message from topic: countries
+hl7_countries 2024/11/05 09:38:00 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 640
+hl7_countries 2024/11/05 09:38:02 consumer.go:48: INFO: Handler1 processing message with topic: countries
+hl7_countries 2024/11/05 09:38:02 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[] mappings:map[]]
+hl7_countries 2024/11/05 09:38:02 consumer.go:48: INFO: Successfully processed message from topic: countries
+hl7_countries 2024/11/05 09:38:02 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 641
+hl7_countries 2024/11/05 09:38:04 consumer.go:48: INFO: Handler1 processing message with topic: countries
+hl7_countries 2024/11/05 09:38:04 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[] mappings:map[]]
+hl7_countries 2024/11/05 09:38:04 consumer.go:48: INFO: Successfully processed message from topic: countries
+hl7_countries 2024/11/05 09:38:04 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 642
+hl7_countries 2024/11/05 09:38:06 consumer.go:48: INFO: Handler1 processing message with topic: countries
+hl7_countries 2024/11/05 09:38:06 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[] mappings:map[]]
+hl7_countries 2024/11/05 09:38:06 consumer.go:48: INFO: Successfully processed message from topic: countries
+hl7_countries 2024/11/05 09:38:06 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 643
+hl7_countries 2024/11/05 09:38:08 consumer.go:48: INFO: Handler1 processing message with topic: countries
+hl7_countries 2024/11/05 09:38:08 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[] mappings:map[]]
+hl7_countries 2024/11/05 09:38:08 consumer.go:48: INFO: Successfully processed message from topic: countries
+hl7_countries 2024/11/05 09:38:08 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 644
+hl7_countries 2024/11/05 09:38:10 consumer.go:48: INFO: Handler1 processing message with topic: countries
+hl7_countries 2024/11/05 09:38:10 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[] mappings:map[]]
+hl7_countries 2024/11/05 09:38:10 consumer.go:48: INFO: Successfully processed message from topic: countries
+hl7_countries 2024/11/05 09:38:10 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 645
+hl7_countries 2024/11/05 09:38:12 consumer.go:48: INFO: Handler1 processing message with topic: countries
+hl7_countries 2024/11/05 09:38:12 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[] mappings:map[]]
+hl7_countries 2024/11/05 09:38:12 consumer.go:48: INFO: Successfully processed message from topic: countries
+hl7_countries 2024/11/05 09:38:12 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 646
+hl7_countries 2024/11/05 09:38:14 consumer.go:48: INFO: Handler1 processing message with topic: countries
+hl7_countries 2024/11/05 09:38:14 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[] mappings:map[]]
+hl7_countries 2024/11/05 09:38:14 consumer.go:48: INFO: Successfully processed message from topic: countries
+hl7_countries 2024/11/05 09:38:14 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 647
+hl7_countries 2024/11/05 09:38:16 consumer.go:48: INFO: Handler1 processing message with topic: countries
+hl7_countries 2024/11/05 09:38:16 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[] mappings:map[]]
+hl7_countries 2024/11/05 09:38:16 consumer.go:48: INFO: Successfully processed message from topic: countries
+hl7_countries 2024/11/05 09:38:16 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 648
+hl7_countries 2024/11/05 09:38:18 consumer.go:48: INFO: Handler1 processing message with topic: countries
+hl7_countries 2024/11/05 09:38:18 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[] mappings:map[]]
+hl7_countries 2024/11/05 09:38:18 consumer.go:48: INFO: Successfully processed message from topic: countries
+hl7_countries 2024/11/05 09:38:18 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 649
+hl7_countries 2024/11/05 09:43:37 consumer.go:48: INFO: Handler1 processing message with topic: countries
+hl7_countries 2024/11/05 09:43:37 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[] mappings:map[]]
+hl7_countries 2024/11/05 09:43:37 consumer.go:48: INFO: Successfully processed message from topic: countries
+hl7_countries 2024/11/05 09:43:37 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 650
+hl7_countries 2024/11/05 09:43:39 consumer.go:48: INFO: Handler1 processing message with topic: countries
+hl7_countries 2024/11/05 09:43:39 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[] mappings:map[]]
+hl7_countries 2024/11/05 09:43:39 consumer.go:48: INFO: Successfully processed message from topic: countries
+hl7_countries 2024/11/05 09:43:39 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 651
+hl7_countries 2024/11/05 09:43:41 consumer.go:48: INFO: Handler1 processing message with topic: countries
+hl7_countries 2024/11/05 09:43:41 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[] mappings:map[]]
+hl7_countries 2024/11/05 09:43:41 consumer.go:48: INFO: Successfully processed message from topic: countries
+hl7_countries 2024/11/05 09:43:41 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 652
+hl7_countries 2024/11/05 09:43:43 consumer.go:48: INFO: Handler1 processing message with topic: countries
+hl7_countries 2024/11/05 09:43:43 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[] mappings:map[]]
+hl7_countries 2024/11/05 09:43:43 consumer.go:48: INFO: Successfully processed message from topic: countries
+hl7_countries 2024/11/05 09:43:43 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 653
+hl7_countries 2024/11/05 09:43:45 consumer.go:48: INFO: Handler1 processing message with topic: countries
+hl7_countries 2024/11/05 09:43:45 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[] mappings:map[]]
+hl7_countries 2024/11/05 09:43:45 consumer.go:48: INFO: Successfully processed message from topic: countries
+hl7_countries 2024/11/05 09:43:45 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 654
+hl7_countries 2024/11/05 09:43:47 consumer.go:48: INFO: Handler1 processing message with topic: countries
+hl7_countries 2024/11/05 09:43:47 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[] mappings:map[]]
+hl7_countries 2024/11/05 09:43:47 consumer.go:48: INFO: Successfully processed message from topic: countries
+hl7_countries 2024/11/05 09:43:47 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 655
+hl7_countries 2024/11/05 09:43:49 consumer.go:48: INFO: Handler1 processing message with topic: countries
+hl7_countries 2024/11/05 09:43:49 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[] mappings:map[]]
+hl7_countries 2024/11/05 09:43:49 consumer.go:48: INFO: Successfully processed message from topic: countries
+hl7_countries 2024/11/05 09:43:49 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 656
+hl7_countries 2024/11/05 09:43:51 consumer.go:48: INFO: Handler1 processing message with topic: countries
+hl7_countries 2024/11/05 09:43:51 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[] mappings:map[]]
+hl7_countries 2024/11/05 09:43:51 consumer.go:48: INFO: Successfully processed message from topic: countries
+hl7_countries 2024/11/05 09:43:51 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 657
+hl7_countries 2024/11/05 09:43:53 consumer.go:48: INFO: Handler1 processing message with topic: countries
+hl7_countries 2024/11/05 09:43:53 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[] mappings:map[]]
+hl7_countries 2024/11/05 09:43:53 consumer.go:48: INFO: Successfully processed message from topic: countries
+hl7_countries 2024/11/05 09:43:53 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 658
+hl7_countries 2024/11/05 09:43:55 consumer.go:48: INFO: Handler1 processing message with topic: countries
+hl7_countries 2024/11/05 09:43:55 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[] mappings:map[]]
+hl7_countries 2024/11/05 09:43:55 consumer.go:48: INFO: Successfully processed message from topic: countries
+hl7_countries 2024/11/05 09:43:55 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 659
+hl7_countries 2024/11/05 09:47:14 consumer.go:48: INFO: Received termination signal. Shutting down...
+hl7_countries 2024/11/05 09:47:14 consumer.go:48: DEBUG: stopped commit for group Countries-Group-1
+hl7_countries 2024/11/05 09:47:14 consumer.go:48: DEBUG: stopped heartbeat for group Countries-Group-1
+hl7_countries 2024/11/05 09:47:14 consumer.go:48: ERROR: Lost connection to Kafka. Shutting down consumer and retrying in 5 seconds...
+hl7_countries 2024/11/05 09:47:14 consumer.go:48: DEBUG: Leaving group Countries-Group-1, member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-1962521f-fa65-468d-9f6b-b240d333f364
+hl7_countries 2024/11/05 09:47:14 consumer.go:48: INFO: Kafka consumer has been stopped.
+hl7_cities 2024/11/05 09:47:14 consumer.go:48: INFO: Received termination signal. Shutting down...
+hl7_cities 2024/11/05 09:47:14 consumer.go:48: ERROR: Lost connection to Kafka. Shutting down consumer and retrying in 5 seconds...
+hl7_cities 2024/11/05 09:47:14 consumer.go:48: INFO: Kafka consumer has been stopped.
+hl7_countries 2024/11/05 09:47:18 consumer.go:48: INFO: Starting Kafka consumer...
+hl7_countries 2024/11/05 09:47:18 consumer.go:48: DEBUG: entering loop for consumer group, Countries-Group-1
+hl7_countries 2024/11/05 09:47:18 consumer.go:48: DEBUG: joined group Countries-Group-1 as member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-0f531a3c-f293-46e2-96d3-aadcf1e2b6ff in generation 41
+hl7_countries 2024/11/05 09:47:18 consumer.go:48: DEBUG: selected as leader for group, Countries-Group-1
+hl7_cities 2024/11/05 09:47:18 consumer.go:48: INFO: Starting Kafka consumer...
+hl7_countries 2024/11/05 09:47:18 consumer.go:48: DEBUG: using 'range' balancer to assign group, Countries-Group-1
+hl7_countries 2024/11/05 09:47:18 consumer.go:48: DEBUG: found member: gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-0f531a3c-f293-46e2-96d3-aadcf1e2b6ff/[]byte(nil)
+hl7_countries 2024/11/05 09:47:18 consumer.go:48: DEBUG: found topic/partition: countries/0
+hl7_countries 2024/11/05 09:47:18 consumer.go:48: DEBUG: assigned member/topic/partitions gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-0f531a3c-f293-46e2-96d3-aadcf1e2b6ff/countries/[0]
+hl7_countries 2024/11/05 09:47:18 consumer.go:48: DEBUG: joinGroup succeeded for response, Countries-Group-1.  generationID=41, memberID=gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-0f531a3c-f293-46e2-96d3-aadcf1e2b6ff
+hl7_countries 2024/11/05 09:47:18 consumer.go:48: DEBUG: Joined group Countries-Group-1 as member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-0f531a3c-f293-46e2-96d3-aadcf1e2b6ff in generation 41
+hl7_countries 2024/11/05 09:47:18 consumer.go:48: DEBUG: Syncing 1 assignments for generation 41 as member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-0f531a3c-f293-46e2-96d3-aadcf1e2b6ff
+hl7_countries 2024/11/05 09:47:18 consumer.go:48: DEBUG: sync group finished for group, Countries-Group-1
+hl7_countries 2024/11/05 09:47:18 consumer.go:48: DEBUG: started heartbeat for group, Countries-Group-1 [3s]
+hl7_countries 2024/11/05 09:47:18 consumer.go:48: DEBUG: subscribed to topics and partitions: map[{topic:countries partition:0}:659]
+hl7_countries 2024/11/05 09:47:18 consumer.go:48: DEBUG: started commit for group Countries-Group-1
+hl7_countries 2024/11/05 09:56:09 consumer.go:48: INFO: Received termination signal. Shutting down...
+hl7_countries 2024/11/05 09:56:09 consumer.go:48: DEBUG: stopped commit for group Countries-Group-1
+hl7_countries 2024/11/05 09:56:09 consumer.go:48: DEBUG: stopped heartbeat for group Countries-Group-1
+hl7_countries 2024/11/05 09:56:09 consumer.go:48: ERROR: Lost connection to Kafka. Shutting down consumer and retrying in 5 seconds...
+hl7_countries 2024/11/05 09:56:09 consumer.go:48: DEBUG: Leaving group Countries-Group-1, member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-0f531a3c-f293-46e2-96d3-aadcf1e2b6ff
+hl7_countries 2024/11/05 09:56:09 consumer.go:48: INFO: Kafka consumer has been stopped.
+hl7_cities 2024/11/05 09:56:09 consumer.go:48: INFO: Received termination signal. Shutting down...
+hl7_cities 2024/11/05 09:56:09 consumer.go:48: ERROR: Lost connection to Kafka. Shutting down consumer and retrying in 5 seconds...
+hl7_cities 2024/11/05 09:56:09 consumer.go:48: INFO: Kafka consumer has been stopped.
+hl7_countries 2024/11/05 09:58:17 consumer.go:48: DEBUG: entering loop for consumer group, Countries-Group-1
+hl7_countries 2024/11/05 09:58:17 consumer.go:48: DEBUG: joined group Countries-Group-1 as member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-73c2e772-63f8-42fe-b325-7a0d1454f363 in generation 43
+hl7_countries 2024/11/05 09:58:17 consumer.go:48: INFO: Starting Kafka consumer...
+hl7_countries 2024/11/05 09:58:17 consumer.go:48: DEBUG: selected as leader for group, Countries-Group-1
+hl7_cities 2024/11/05 09:58:17 consumer.go:48: INFO: Starting Kafka consumer...
+hl7_countries 2024/11/05 09:58:17 consumer.go:48: DEBUG: using 'range' balancer to assign group, Countries-Group-1
+hl7_countries 2024/11/05 09:58:17 consumer.go:48: DEBUG: found member: gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-73c2e772-63f8-42fe-b325-7a0d1454f363/[]byte(nil)
+hl7_countries 2024/11/05 09:58:17 consumer.go:48: DEBUG: found topic/partition: countries/0
+hl7_countries 2024/11/05 09:58:17 consumer.go:48: DEBUG: assigned member/topic/partitions gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-73c2e772-63f8-42fe-b325-7a0d1454f363/countries/[0]
+hl7_countries 2024/11/05 09:58:17 consumer.go:48: DEBUG: joinGroup succeeded for response, Countries-Group-1.  generationID=43, memberID=gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-73c2e772-63f8-42fe-b325-7a0d1454f363
+hl7_countries 2024/11/05 09:58:17 consumer.go:48: DEBUG: Joined group Countries-Group-1 as member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-73c2e772-63f8-42fe-b325-7a0d1454f363 in generation 43
+hl7_countries 2024/11/05 09:58:17 consumer.go:48: DEBUG: Syncing 1 assignments for generation 43 as member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-73c2e772-63f8-42fe-b325-7a0d1454f363
+hl7_countries 2024/11/05 09:58:17 consumer.go:48: DEBUG: sync group finished for group, Countries-Group-1
+hl7_countries 2024/11/05 09:58:17 consumer.go:48: DEBUG: started heartbeat for group, Countries-Group-1 [3s]
+hl7_countries 2024/11/05 09:58:17 consumer.go:48: DEBUG: subscribed to topics and partitions: map[{topic:countries partition:0}:659]
+hl7_countries 2024/11/05 09:58:17 consumer.go:48: DEBUG: started commit for group Countries-Group-1
+hl7_cities 2024/11/05 09:58:33 consumer.go:48: INFO: Redis Host: dev-redis-server, Port: 6379
+hl7_cities 2024/11/05 09:58:33 consumer.go:48: INFO: Mongo Server: dev-mongo-server, Port: 27017
+hl7_cities 2024/11/05 09:58:33 consumer.go:48: INFO: MySQL Host: dev-mysql-server, Port: 3306
+hl7_cities 2024/11/05 09:58:35 consumer.go:48: INFO: Redis Host: dev-redis-server, Port: 6379
+hl7_cities 2024/11/05 09:58:35 consumer.go:48: INFO: Mongo Server: dev-mongo-server, Port: 27017
+hl7_cities 2024/11/05 09:58:35 consumer.go:48: INFO: MySQL Host: dev-mysql-server, Port: 3306
+hl7_cities 2024/11/05 09:58:37 consumer.go:48: INFO: Redis Host: dev-redis-server, Port: 6379
+hl7_cities 2024/11/05 09:58:37 consumer.go:48: INFO: Mongo Server: dev-mongo-server, Port: 27017
+hl7_cities 2024/11/05 09:58:37 consumer.go:48: INFO: MySQL Host: dev-mysql-server, Port: 3306
+hl7_cities 2024/11/05 09:58:39 consumer.go:48: INFO: Redis Host: dev-redis-server, Port: 6379
+hl7_cities 2024/11/05 09:58:39 consumer.go:48: INFO: Mongo Server: dev-mongo-server, Port: 27017
+hl7_cities 2024/11/05 09:58:39 consumer.go:48: INFO: MySQL Host: dev-mysql-server, Port: 3306
+hl7_cities 2024/11/05 09:58:41 consumer.go:48: INFO: Redis Host: dev-redis-server, Port: 6379
+hl7_cities 2024/11/05 09:58:41 consumer.go:48: INFO: Mongo Server: dev-mongo-server, Port: 27017
+hl7_cities 2024/11/05 09:58:41 consumer.go:48: INFO: MySQL Host: dev-mysql-server, Port: 3306
+hl7_cities 2024/11/05 09:58:43 consumer.go:48: INFO: Redis Host: dev-redis-server, Port: 6379
+hl7_cities 2024/11/05 09:58:43 consumer.go:48: INFO: Mongo Server: dev-mongo-server, Port: 27017
+hl7_cities 2024/11/05 09:58:43 consumer.go:48: INFO: MySQL Host: dev-mysql-server, Port: 3306
+hl7_cities 2024/11/05 09:58:45 consumer.go:48: INFO: Redis Host: dev-redis-server, Port: 6379
+hl7_cities 2024/11/05 09:58:45 consumer.go:48: INFO: Mongo Server: dev-mongo-server, Port: 27017
+hl7_cities 2024/11/05 09:58:45 consumer.go:48: INFO: MySQL Host: dev-mysql-server, Port: 3306
+hl7_cities 2024/11/05 09:58:47 consumer.go:48: INFO: Redis Host: dev-redis-server, Port: 6379
+hl7_cities 2024/11/05 09:58:47 consumer.go:48: INFO: Mongo Server: dev-mongo-server, Port: 27017
+hl7_cities 2024/11/05 09:58:47 consumer.go:48: INFO: MySQL Host: dev-mysql-server, Port: 3306
+hl7_cities 2024/11/05 09:58:49 consumer.go:48: INFO: Redis Host: dev-redis-server, Port: 6379
+hl7_cities 2024/11/05 09:58:49 consumer.go:48: INFO: Mongo Server: dev-mongo-server, Port: 27017
+hl7_cities 2024/11/05 09:58:49 consumer.go:48: INFO: MySQL Host: dev-mysql-server, Port: 3306
+hl7_cities 2024/11/05 09:58:51 consumer.go:48: INFO: Redis Host: dev-redis-server, Port: 6379
+hl7_cities 2024/11/05 09:58:51 consumer.go:48: INFO: Mongo Server: dev-mongo-server, Port: 27017
+hl7_cities 2024/11/05 09:58:51 consumer.go:48: INFO: MySQL Host: dev-mysql-server, Port: 3306
+hl7_countries 2024/11/05 10:02:53 consumer.go:48: INFO: Received termination signal. Shutting down...
+hl7_countries 2024/11/05 10:02:53 consumer.go:48: DEBUG: stopped commit for group Countries-Group-1
+hl7_countries 2024/11/05 10:02:53 consumer.go:48: DEBUG: stopped heartbeat for group Countries-Group-1
+hl7_countries 2024/11/05 10:02:53 consumer.go:48: ERROR: Lost connection to Kafka. Shutting down consumer and retrying in 5 seconds...
+hl7_countries 2024/11/05 10:02:53 consumer.go:48: DEBUG: Leaving group Countries-Group-1, member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-73c2e772-63f8-42fe-b325-7a0d1454f363
+hl7_countries 2024/11/05 10:02:53 consumer.go:48: INFO: Kafka consumer has been stopped.
+hl7_cities 2024/11/05 10:02:53 consumer.go:48: INFO: Received termination signal. Shutting down...
+hl7_cities 2024/11/05 10:02:53 consumer.go:48: ERROR: Lost connection to Kafka. Shutting down consumer and retrying in 5 seconds...
+hl7_cities 2024/11/05 10:02:53 consumer.go:48: INFO: Kafka consumer has been stopped.
+[hl7_countries ] 2024/11/05 10:02:56 consumer.go:48: INFO: Starting Kafka consumer...
+[hl7_countries ] 2024/11/05 10:02:56 consumer.go:48: DEBUG: entering loop for consumer group, Countries-Group-1
+[hl7_countries ] 2024/11/05 10:02:56 consumer.go:48: DEBUG: joined group Countries-Group-1 as member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-c58b815d-fab9-4966-856a-9fc171f34560 in generation 45
+[hl7_countries ] 2024/11/05 10:02:56 consumer.go:48: DEBUG: selected as leader for group, Countries-Group-1
+[hl7_cities ] 2024/11/05 10:02:56 consumer.go:48: INFO: Starting Kafka consumer...
+[hl7_countries ] 2024/11/05 10:02:56 consumer.go:48: DEBUG: using 'range' balancer to assign group, Countries-Group-1
+[hl7_countries ] 2024/11/05 10:02:56 consumer.go:48: DEBUG: found member: gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-c58b815d-fab9-4966-856a-9fc171f34560/[]byte(nil)
+[hl7_countries ] 2024/11/05 10:02:56 consumer.go:48: DEBUG: found topic/partition: countries/0
+[hl7_countries ] 2024/11/05 10:02:56 consumer.go:48: DEBUG: assigned member/topic/partitions gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-c58b815d-fab9-4966-856a-9fc171f34560/countries/[0]
+[hl7_countries ] 2024/11/05 10:02:56 consumer.go:48: DEBUG: joinGroup succeeded for response, Countries-Group-1.  generationID=45, memberID=gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-c58b815d-fab9-4966-856a-9fc171f34560
+[hl7_countries ] 2024/11/05 10:02:56 consumer.go:48: DEBUG: Joined group Countries-Group-1 as member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-c58b815d-fab9-4966-856a-9fc171f34560 in generation 45
+[hl7_countries ] 2024/11/05 10:02:56 consumer.go:48: DEBUG: Syncing 1 assignments for generation 45 as member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-c58b815d-fab9-4966-856a-9fc171f34560
+[hl7_countries ] 2024/11/05 10:02:56 consumer.go:48: DEBUG: sync group finished for group, Countries-Group-1
+[hl7_countries ] 2024/11/05 10:02:56 consumer.go:48: DEBUG: started heartbeat for group, Countries-Group-1 [3s]
+[hl7_countries ] 2024/11/05 10:02:56 consumer.go:48: DEBUG: subscribed to topics and partitions: map[{topic:countries partition:0}:659]
+[hl7_countries ] 2024/11/05 10:02:56 consumer.go:48: DEBUG: started commit for group Countries-Group-1
+[hl7_countries ] 2024/11/05 10:04:09 consumer.go:48: INFO: Received termination signal. Shutting down...
+[hl7_countries ] 2024/11/05 10:04:09 consumer.go:48: DEBUG: stopped commit for group Countries-Group-1
+[hl7_countries ] 2024/11/05 10:04:09 consumer.go:48: DEBUG: stopped heartbeat for group Countries-Group-1
+[hl7_countries ] 2024/11/05 10:04:09 consumer.go:48: ERROR: Lost connection to Kafka. Shutting down consumer and retrying in 5 seconds...
+[hl7_countries ] 2024/11/05 10:04:09 consumer.go:48: DEBUG: Leaving group Countries-Group-1, member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-c58b815d-fab9-4966-856a-9fc171f34560
+[hl7_countries ] 2024/11/05 10:04:09 consumer.go:48: INFO: Kafka consumer has been stopped.
+[hl7_cities ] 2024/11/05 10:04:09 consumer.go:48: INFO: Received termination signal. Shutting down...
+[hl7_cities ] 2024/11/05 10:04:09 consumer.go:48: ERROR: Lost connection to Kafka. Shutting down consumer and retrying in 5 seconds...
+[hl7_cities ] 2024/11/05 10:04:09 consumer.go:48: INFO: Kafka consumer has been stopped.
+[hl7_countries] 2024/11/05 10:05:47 consumer.go:48: INFO: Starting Kafka consumer...
+[hl7_countries] 2024/11/05 10:05:47 consumer.go:48: DEBUG: entering loop for consumer group, Countries-Group-1
+[hl7_countries] 2024/11/05 10:05:47 consumer.go:48: DEBUG: joined group Countries-Group-1 as member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-f68d22ae-b061-46ad-bbd7-22909e5642ce in generation 47
+[hl7_countries] 2024/11/05 10:05:47 consumer.go:48: DEBUG: selected as leader for group, Countries-Group-1
+[hl7_cities] 2024/11/05 10:05:47 consumer.go:48: INFO: Starting Kafka consumer...
+[hl7_countries] 2024/11/05 10:05:47 consumer.go:48: DEBUG: using 'range' balancer to assign group, Countries-Group-1
+[hl7_countries] 2024/11/05 10:05:47 consumer.go:48: DEBUG: found member: gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-f68d22ae-b061-46ad-bbd7-22909e5642ce/[]byte(nil)
+[hl7_countries] 2024/11/05 10:05:47 consumer.go:48: DEBUG: found topic/partition: countries/0
+[hl7_countries] 2024/11/05 10:05:47 consumer.go:48: DEBUG: assigned member/topic/partitions gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-f68d22ae-b061-46ad-bbd7-22909e5642ce/countries/[0]
+[hl7_countries] 2024/11/05 10:05:47 consumer.go:48: DEBUG: joinGroup succeeded for response, Countries-Group-1.  generationID=47, memberID=gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-f68d22ae-b061-46ad-bbd7-22909e5642ce
+[hl7_countries] 2024/11/05 10:05:47 consumer.go:48: DEBUG: Joined group Countries-Group-1 as member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-f68d22ae-b061-46ad-bbd7-22909e5642ce in generation 47
+[hl7_countries] 2024/11/05 10:05:47 consumer.go:48: DEBUG: Syncing 1 assignments for generation 47 as member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-f68d22ae-b061-46ad-bbd7-22909e5642ce
+[hl7_countries] 2024/11/05 10:05:47 consumer.go:48: DEBUG: sync group finished for group, Countries-Group-1
+[hl7_countries] 2024/11/05 10:05:47 consumer.go:48: DEBUG: started heartbeat for group, Countries-Group-1 [3s]
+[hl7_countries] 2024/11/05 10:05:47 consumer.go:48: DEBUG: subscribed to topics and partitions: map[{topic:countries partition:0}:659]
+[hl7_countries] 2024/11/05 10:05:47 consumer.go:48: DEBUG: started commit for group Countries-Group-1
+[hl7_countries] 2024/11/05 10:05:53 consumer.go:48: INFO: Received termination signal. Shutting down...
+[hl7_countries] 2024/11/05 10:05:53 consumer.go:48: DEBUG: stopped commit for group Countries-Group-1
+[hl7_countries] 2024/11/05 10:05:53 consumer.go:48: DEBUG: stopped heartbeat for group Countries-Group-1
+[hl7_countries] 2024/11/05 10:05:53 consumer.go:48: ERROR: Lost connection to Kafka. Shutting down consumer and retrying in 5 seconds...
+[hl7_countries] 2024/11/05 10:05:54 consumer.go:48: DEBUG: Leaving group Countries-Group-1, member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-f68d22ae-b061-46ad-bbd7-22909e5642ce
+[hl7_countries] 2024/11/05 10:05:54 consumer.go:48: INFO: Kafka consumer has been stopped.
+[hl7_cities] 2024/11/05 10:05:54 consumer.go:48: INFO: Received termination signal. Shutting down...
+[hl7_cities] 2024/11/05 10:05:54 consumer.go:48: ERROR: Lost connection to Kafka. Shutting down consumer and retrying in 5 seconds...
+[hl7_cities] 2024/11/05 10:05:54 consumer.go:48: INFO: Kafka consumer has been stopped.
+[hl7_countries] 2024/11/05 10:06:02 consumer.go:48: DEBUG: entering loop for consumer group, Countries-Group-1
+[hl7_countries] 2024/11/05 10:06:02 consumer.go:48: INFO: Starting Kafka consumer...
+[hl7_countries] 2024/11/05 10:06:02 consumer.go:48: DEBUG: joined group Countries-Group-1 as member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-1814968f-f11d-4656-a086-332b06626fc7 in generation 49
+[hl7_countries] 2024/11/05 10:06:02 consumer.go:48: DEBUG: selected as leader for group, Countries-Group-1
+[hl7_cities] 2024/11/05 10:06:02 consumer.go:48: INFO: Starting Kafka consumer...
+[hl7_countries] 2024/11/05 10:06:02 consumer.go:48: DEBUG: using 'range' balancer to assign group, Countries-Group-1
+[hl7_countries] 2024/11/05 10:06:02 consumer.go:48: DEBUG: found member: gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-1814968f-f11d-4656-a086-332b06626fc7/[]byte(nil)
+[hl7_countries] 2024/11/05 10:06:02 consumer.go:48: DEBUG: found topic/partition: countries/0
+[hl7_countries] 2024/11/05 10:06:02 consumer.go:48: DEBUG: assigned member/topic/partitions gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-1814968f-f11d-4656-a086-332b06626fc7/countries/[0]
+[hl7_countries] 2024/11/05 10:06:02 consumer.go:48: DEBUG: joinGroup succeeded for response, Countries-Group-1.  generationID=49, memberID=gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-1814968f-f11d-4656-a086-332b06626fc7
+[hl7_countries] 2024/11/05 10:06:02 consumer.go:48: DEBUG: Joined group Countries-Group-1 as member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-1814968f-f11d-4656-a086-332b06626fc7 in generation 49
+[hl7_countries] 2024/11/05 10:06:02 consumer.go:48: DEBUG: Syncing 1 assignments for generation 49 as member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-1814968f-f11d-4656-a086-332b06626fc7
+[hl7_countries] 2024/11/05 10:06:02 consumer.go:48: DEBUG: sync group finished for group, Countries-Group-1
+[hl7_countries] 2024/11/05 10:06:02 consumer.go:48: DEBUG: started heartbeat for group, Countries-Group-1 [3s]
+[hl7_countries] 2024/11/05 10:06:02 consumer.go:48: DEBUG: subscribed to topics and partitions: map[{topic:countries partition:0}:659]
+[hl7_countries] 2024/11/05 10:06:02 consumer.go:48: DEBUG: started commit for group Countries-Group-1
+[hl7_cities] 2024/11/05 10:08:04 consumer.go:48: INFO: Redis Host: prod-redis-server, Port: 6379
+[hl7_cities] 2024/11/05 10:08:04 consumer.go:48: INFO: Mongo Server: prod-mongo-server, Port: 27017
+[hl7_cities] 2024/11/05 10:08:04 consumer.go:48: INFO: MySQL Host: prod-mysql-server, Port: 3306
+[hl7_cities] 2024/11/05 10:08:06 consumer.go:48: INFO: Redis Host: prod-redis-server, Port: 6379
+[hl7_cities] 2024/11/05 10:08:06 consumer.go:48: INFO: Mongo Server: prod-mongo-server, Port: 27017
+[hl7_cities] 2024/11/05 10:08:06 consumer.go:48: INFO: MySQL Host: prod-mysql-server, Port: 3306
+[hl7_cities] 2024/11/05 10:08:08 consumer.go:48: INFO: Redis Host: prod-redis-server, Port: 6379
+[hl7_cities] 2024/11/05 10:08:08 consumer.go:48: INFO: Mongo Server: prod-mongo-server, Port: 27017
+[hl7_cities] 2024/11/05 10:08:08 consumer.go:48: INFO: MySQL Host: prod-mysql-server, Port: 3306
+[hl7_cities] 2024/11/05 10:08:10 consumer.go:48: INFO: Redis Host: prod-redis-server, Port: 6379
+[hl7_cities] 2024/11/05 10:08:10 consumer.go:48: INFO: Mongo Server: prod-mongo-server, Port: 27017
+[hl7_cities] 2024/11/05 10:08:10 consumer.go:48: INFO: MySQL Host: prod-mysql-server, Port: 3306
+[hl7_cities] 2024/11/05 10:08:12 consumer.go:48: INFO: Redis Host: prod-redis-server, Port: 6379
+[hl7_cities] 2024/11/05 10:08:12 consumer.go:48: INFO: Mongo Server: prod-mongo-server, Port: 27017
+[hl7_cities] 2024/11/05 10:08:12 consumer.go:48: INFO: MySQL Host: prod-mysql-server, Port: 3306
+[hl7_cities] 2024/11/05 10:08:14 consumer.go:48: INFO: Redis Host: prod-redis-server, Port: 6379
+[hl7_cities] 2024/11/05 10:08:14 consumer.go:48: INFO: Mongo Server: prod-mongo-server, Port: 27017
+[hl7_cities] 2024/11/05 10:08:14 consumer.go:48: INFO: MySQL Host: prod-mysql-server, Port: 3306
+[hl7_cities] 2024/11/05 10:08:16 consumer.go:48: INFO: Redis Host: prod-redis-server, Port: 6379
+[hl7_cities] 2024/11/05 10:08:16 consumer.go:48: INFO: Mongo Server: prod-mongo-server, Port: 27017
+[hl7_cities] 2024/11/05 10:08:16 consumer.go:48: INFO: MySQL Host: prod-mysql-server, Port: 3306
+[hl7_cities] 2024/11/05 10:08:18 consumer.go:48: INFO: Redis Host: prod-redis-server, Port: 6379
+[hl7_cities] 2024/11/05 10:08:18 consumer.go:48: INFO: Mongo Server: prod-mongo-server, Port: 27017
+[hl7_cities] 2024/11/05 10:08:18 consumer.go:48: INFO: MySQL Host: prod-mysql-server, Port: 3306
+[hl7_cities] 2024/11/05 10:08:20 consumer.go:48: INFO: Redis Host: prod-redis-server, Port: 6379
+[hl7_cities] 2024/11/05 10:08:20 consumer.go:48: INFO: Mongo Server: prod-mongo-server, Port: 27017
+[hl7_cities] 2024/11/05 10:08:20 consumer.go:48: INFO: MySQL Host: prod-mysql-server, Port: 3306
+[hl7_cities] 2024/11/05 10:08:22 consumer.go:48: INFO: Redis Host: prod-redis-server, Port: 6379
+[hl7_cities] 2024/11/05 10:08:22 consumer.go:48: INFO: Mongo Server: prod-mongo-server, Port: 27017
+[hl7_cities] 2024/11/05 10:08:22 consumer.go:48: INFO: MySQL Host: prod-mysql-server, Port: 3306
+[hl7_countries] 2024/11/05 10:44:50 consumer.go:48: INFO: Received termination signal. Shutting down...
+[hl7_countries] 2024/11/05 10:44:50 consumer.go:48: DEBUG: stopped commit for group Countries-Group-1
+[hl7_countries] 2024/11/05 10:44:50 consumer.go:48: DEBUG: stopped heartbeat for group Countries-Group-1
+[hl7_countries] 2024/11/05 10:44:50 consumer.go:48: ERROR: Lost connection to Kafka. Shutting down consumer and retrying in 5 seconds...
+[hl7_countries] 2024/11/05 10:44:50 consumer.go:48: DEBUG: Leaving group Countries-Group-1, member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-1814968f-f11d-4656-a086-332b06626fc7
+[hl7_countries] 2024/11/05 10:44:50 consumer.go:48: INFO: Kafka consumer has been stopped.
+[hl7_cities] 2024/11/05 10:44:50 consumer.go:48: INFO: Received termination signal. Shutting down...
+[hl7_cities] 2024/11/05 10:44:50 consumer.go:48: ERROR: Lost connection to Kafka. Shutting down consumer and retrying in 5 seconds...
+[hl7_cities] 2024/11/05 10:44:51 consumer.go:48: INFO: Kafka consumer has been stopped.
+[hl7_countries] 2024/11/05 10:44:53 consumer.go:48: INFO: Starting Kafka consumer...
+[hl7_countries] 2024/11/05 10:44:53 consumer.go:48: DEBUG: entering loop for consumer group, Countries-Group-1
+[hl7_countries] 2024/11/05 10:44:53 consumer.go:48: DEBUG: joined group Countries-Group-1 as member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-f2fb47eb-9679-434d-8faa-e59918184f8a in generation 51
+[hl7_countries] 2024/11/05 10:44:53 consumer.go:48: DEBUG: selected as leader for group, Countries-Group-1
+[hl7_cities] 2024/11/05 10:44:53 consumer.go:48: INFO: Starting Kafka consumer...
+[hl7_countries] 2024/11/05 10:44:53 consumer.go:48: DEBUG: using 'range' balancer to assign group, Countries-Group-1
+[hl7_countries] 2024/11/05 10:44:53 consumer.go:48: DEBUG: found member: gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-f2fb47eb-9679-434d-8faa-e59918184f8a/[]byte(nil)
+[hl7_countries] 2024/11/05 10:44:53 consumer.go:48: DEBUG: found topic/partition: countries/0
+[hl7_countries] 2024/11/05 10:44:53 consumer.go:48: DEBUG: assigned member/topic/partitions gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-f2fb47eb-9679-434d-8faa-e59918184f8a/countries/[0]
+[hl7_countries] 2024/11/05 10:44:53 consumer.go:48: DEBUG: joinGroup succeeded for response, Countries-Group-1.  generationID=51, memberID=gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-f2fb47eb-9679-434d-8faa-e59918184f8a
+[hl7_countries] 2024/11/05 10:44:53 consumer.go:48: DEBUG: Joined group Countries-Group-1 as member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-f2fb47eb-9679-434d-8faa-e59918184f8a in generation 51
+[hl7_countries] 2024/11/05 10:44:53 consumer.go:48: DEBUG: Syncing 1 assignments for generation 51 as member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-f2fb47eb-9679-434d-8faa-e59918184f8a
+[hl7_countries] 2024/11/05 10:44:53 consumer.go:48: DEBUG: sync group finished for group, Countries-Group-1
+[hl7_countries] 2024/11/05 10:44:53 consumer.go:48: DEBUG: started heartbeat for group, Countries-Group-1 [3s]
+[hl7_countries] 2024/11/05 10:44:53 consumer.go:48: DEBUG: subscribed to topics and partitions: map[{topic:countries partition:0}:659]
+[hl7_countries] 2024/11/05 10:44:53 consumer.go:48: DEBUG: started commit for group Countries-Group-1
+[hl7_countries] 2024/11/05 10:44:58 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:44:58 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 660
+[hl7_countries] 2024/11/05 10:45:00 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:45:00 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 661
+[hl7_countries] 2024/11/05 10:45:02 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:45:02 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 662
+[hl7_countries] 2024/11/05 10:45:04 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:45:04 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 663
+[hl7_countries] 2024/11/05 10:45:06 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:45:06 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 664
+[hl7_countries] 2024/11/05 10:45:08 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:45:08 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 665
+[hl7_countries] 2024/11/05 10:45:10 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:45:10 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 666
+[hl7_countries] 2024/11/05 10:45:12 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:45:12 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 667
+[hl7_countries] 2024/11/05 10:45:14 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:45:14 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 668
+[hl7_countries] 2024/11/05 10:45:16 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:45:16 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 669
+[hl7_countries] 2024/11/05 10:45:19 consumer.go:48: INFO: Received termination signal. Shutting down...
+[hl7_countries] 2024/11/05 10:45:19 consumer.go:48: DEBUG: stopped commit for group Countries-Group-1
+[hl7_countries] 2024/11/05 10:45:19 consumer.go:48: DEBUG: stopped heartbeat for group Countries-Group-1
+[hl7_countries] 2024/11/05 10:45:19 consumer.go:48: ERROR: Lost connection to Kafka. Shutting down consumer and retrying in 5 seconds...
+[hl7_countries] 2024/11/05 10:45:19 consumer.go:48: DEBUG: Leaving group Countries-Group-1, member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-f2fb47eb-9679-434d-8faa-e59918184f8a
+[hl7_countries] 2024/11/05 10:45:19 consumer.go:48: INFO: Kafka consumer has been stopped.
+[hl7_cities] 2024/11/05 10:45:19 consumer.go:48: INFO: Received termination signal. Shutting down...
+[hl7_cities] 2024/11/05 10:45:19 consumer.go:48: ERROR: Lost connection to Kafka. Shutting down consumer and retrying in 5 seconds...
+[hl7_cities] 2024/11/05 10:45:19 consumer.go:48: INFO: Kafka consumer has been stopped.
+[hl7_countries] 2024/11/05 10:45:20 consumer.go:48: DEBUG: entering loop for consumer group, Countries-Group-1
+[hl7_countries] 2024/11/05 10:45:20 consumer.go:48: INFO: Starting Kafka consumer...
+[hl7_countries] 2024/11/05 10:45:20 consumer.go:48: DEBUG: joined group Countries-Group-1 as member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-7fb15209-a9c7-4c54-87e4-c98ccdcd5364 in generation 53
+[hl7_countries] 2024/11/05 10:45:20 consumer.go:48: DEBUG: selected as leader for group, Countries-Group-1
+[hl7_cities] 2024/11/05 10:45:20 consumer.go:48: INFO: Starting Kafka consumer...
+[hl7_countries] 2024/11/05 10:45:20 consumer.go:48: DEBUG: using 'range' balancer to assign group, Countries-Group-1
+[hl7_countries] 2024/11/05 10:45:20 consumer.go:48: DEBUG: found member: gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-7fb15209-a9c7-4c54-87e4-c98ccdcd5364/[]byte(nil)
+[hl7_countries] 2024/11/05 10:45:20 consumer.go:48: DEBUG: found topic/partition: countries/0
+[hl7_countries] 2024/11/05 10:45:20 consumer.go:48: DEBUG: assigned member/topic/partitions gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-7fb15209-a9c7-4c54-87e4-c98ccdcd5364/countries/[0]
+[hl7_countries] 2024/11/05 10:45:20 consumer.go:48: DEBUG: joinGroup succeeded for response, Countries-Group-1.  generationID=53, memberID=gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-7fb15209-a9c7-4c54-87e4-c98ccdcd5364
+[hl7_countries] 2024/11/05 10:45:20 consumer.go:48: DEBUG: Joined group Countries-Group-1 as member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-7fb15209-a9c7-4c54-87e4-c98ccdcd5364 in generation 53
+[hl7_countries] 2024/11/05 10:45:20 consumer.go:48: DEBUG: Syncing 1 assignments for generation 53 as member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-7fb15209-a9c7-4c54-87e4-c98ccdcd5364
+[hl7_countries] 2024/11/05 10:45:20 consumer.go:48: DEBUG: sync group finished for group, Countries-Group-1
+[hl7_countries] 2024/11/05 10:45:20 consumer.go:48: DEBUG: started heartbeat for group, Countries-Group-1 [3s]
+[hl7_countries] 2024/11/05 10:45:20 consumer.go:48: DEBUG: subscribed to topics and partitions: map[{topic:countries partition:0}:669]
+[hl7_countries] 2024/11/05 10:45:20 consumer.go:48: DEBUG: started commit for group Countries-Group-1
+[hl7_countries] 2024/11/05 10:45:24 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:45:24 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:45:24 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:45:24 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 670
+[hl7_countries] 2024/11/05 10:45:26 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:45:26 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:45:26 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:45:26 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 671
+[hl7_countries] 2024/11/05 10:45:28 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:45:28 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:45:28 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:45:28 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 672
+[hl7_countries] 2024/11/05 10:45:30 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:45:30 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:45:30 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:45:30 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 673
+[hl7_countries] 2024/11/05 10:45:32 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:45:32 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:45:32 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:45:32 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 674
+[hl7_countries] 2024/11/05 10:45:34 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:45:34 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:45:34 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:45:34 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 675
+[hl7_countries] 2024/11/05 10:45:36 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:45:36 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:45:36 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:45:36 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 676
+[hl7_countries] 2024/11/05 10:45:38 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:45:38 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:45:38 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:45:38 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 677
+[hl7_countries] 2024/11/05 10:45:40 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:45:40 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:45:40 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:45:40 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 678
+[hl7_countries] 2024/11/05 10:45:42 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:45:42 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:45:42 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:45:42 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 679
+[hl7_countries] 2024/11/05 10:53:17 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:53:17 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:53:17 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:53:17 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 680
+[hl7_countries] 2024/11/05 10:53:19 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:53:19 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:53:19 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:53:19 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 681
+[hl7_countries] 2024/11/05 10:53:21 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:53:21 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:53:21 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:53:21 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 682
+[hl7_countries] 2024/11/05 10:53:23 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:53:23 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:53:23 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:53:23 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 683
+[hl7_countries] 2024/11/05 10:53:25 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:53:25 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:53:25 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:53:25 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 684
+[hl7_countries] 2024/11/05 10:53:27 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:53:27 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:53:27 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:53:27 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 685
+[hl7_countries] 2024/11/05 10:53:29 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:53:29 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:53:29 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:53:29 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 686
+[hl7_countries] 2024/11/05 10:53:31 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:53:31 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:53:31 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:53:31 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 687
+[hl7_countries] 2024/11/05 10:53:33 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:53:33 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:53:33 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:53:33 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 688
+[hl7_countries] 2024/11/05 10:53:35 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:53:35 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:53:35 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:53:35 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 689
+[hl7_countries] 2024/11/05 10:55:11 consumer.go:48: INFO: Received termination signal. Shutting down...
+[hl7_countries] 2024/11/05 10:55:11 consumer.go:48: DEBUG: stopped commit for group Countries-Group-1
+[hl7_countries] 2024/11/05 10:55:11 consumer.go:48: ERROR: Lost connection to Kafka. Shutting down consumer and retrying in 5 seconds...
+[hl7_countries] 2024/11/05 10:55:11 consumer.go:48: DEBUG: stopped heartbeat for group Countries-Group-1
+[hl7_countries] 2024/11/05 10:55:12 consumer.go:48: DEBUG: Leaving group Countries-Group-1, member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-7fb15209-a9c7-4c54-87e4-c98ccdcd5364
+[hl7_countries] 2024/11/05 10:55:12 consumer.go:48: INFO: Kafka consumer has been stopped.
+[hl7_cities] 2024/11/05 10:55:12 consumer.go:48: INFO: Received termination signal. Shutting down...
+[hl7_cities] 2024/11/05 10:55:12 consumer.go:48: ERROR: Lost connection to Kafka. Shutting down consumer and retrying in 5 seconds...
+[hl7_cities] 2024/11/05 10:55:12 consumer.go:48: INFO: Kafka consumer has been stopped.
+[hl7_countries] 2024/11/05 10:55:40 consumer.go:48: INFO: Starting Kafka consumer...
+[hl7_countries] 2024/11/05 10:55:40 consumer.go:48: DEBUG: entering loop for consumer group, Countries-Group-1
+[hl7_countries] 2024/11/05 10:55:40 consumer.go:48: DEBUG: joined group Countries-Group-1 as member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-83afbc1e-7eb9-4ea9-9881-5ec476692cd6 in generation 55
+[hl7_countries] 2024/11/05 10:55:40 consumer.go:48: DEBUG: selected as leader for group, Countries-Group-1
+[hl7_cities] 2024/11/05 10:55:40 consumer.go:48: INFO: Starting Kafka consumer...
+[hl7_countries] 2024/11/05 10:55:40 consumer.go:48: DEBUG: using 'range' balancer to assign group, Countries-Group-1
+[hl7_countries] 2024/11/05 10:55:40 consumer.go:48: DEBUG: found member: gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-83afbc1e-7eb9-4ea9-9881-5ec476692cd6/[]byte(nil)
+[hl7_countries] 2024/11/05 10:55:40 consumer.go:48: DEBUG: found topic/partition: countries/0
+[hl7_countries] 2024/11/05 10:55:40 consumer.go:48: DEBUG: assigned member/topic/partitions gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-83afbc1e-7eb9-4ea9-9881-5ec476692cd6/countries/[0]
+[hl7_countries] 2024/11/05 10:55:40 consumer.go:48: DEBUG: joinGroup succeeded for response, Countries-Group-1.  generationID=55, memberID=gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-83afbc1e-7eb9-4ea9-9881-5ec476692cd6
+[hl7_countries] 2024/11/05 10:55:40 consumer.go:48: DEBUG: Joined group Countries-Group-1 as member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-83afbc1e-7eb9-4ea9-9881-5ec476692cd6 in generation 55
+[hl7_countries] 2024/11/05 10:55:40 consumer.go:48: DEBUG: Syncing 1 assignments for generation 55 as member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-83afbc1e-7eb9-4ea9-9881-5ec476692cd6
+[hl7_countries] 2024/11/05 10:55:40 consumer.go:48: DEBUG: sync group finished for group, Countries-Group-1
+[hl7_countries] 2024/11/05 10:55:40 consumer.go:48: DEBUG: started heartbeat for group, Countries-Group-1 [3s]
+[hl7_countries] 2024/11/05 10:55:40 consumer.go:48: DEBUG: subscribed to topics and partitions: map[{topic:countries partition:0}:689]
+[hl7_countries] 2024/11/05 10:55:40 consumer.go:48: DEBUG: started commit for group Countries-Group-1
+[hl7_countries] 2024/11/05 10:55:44 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:55:44 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:55:44 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:55:44 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 690
+[hl7_countries] 2024/11/05 10:55:46 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:55:46 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:55:46 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:55:46 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 691
+[hl7_countries] 2024/11/05 10:55:48 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:55:48 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:55:48 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:55:48 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 692
+[hl7_countries] 2024/11/05 10:55:50 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:55:50 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:55:50 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:55:50 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 693
+[hl7_countries] 2024/11/05 10:55:52 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:55:52 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:55:52 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:55:52 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 694
+[hl7_countries] 2024/11/05 10:55:54 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:55:54 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:55:54 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:55:54 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 695
+[hl7_countries] 2024/11/05 10:55:56 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:55:56 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:55:56 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:55:56 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 696
+[hl7_countries] 2024/11/05 10:55:58 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:55:58 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:55:58 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:55:58 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 697
+[hl7_countries] 2024/11/05 10:56:00 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:56:00 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:56:00 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:56:00 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 698
+[hl7_countries] 2024/11/05 10:56:02 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:56:02 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:56:02 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:56:02 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 699
+[hl7_countries] 2024/11/05 10:56:34 consumer.go:48: INFO: Received termination signal. Shutting down...
+[hl7_countries] 2024/11/05 10:56:34 consumer.go:48: DEBUG: stopped commit for group Countries-Group-1
+[hl7_countries] 2024/11/05 10:56:34 consumer.go:48: ERROR: Lost connection to Kafka. Shutting down consumer and retrying in 5 seconds...
+[hl7_countries] 2024/11/05 10:56:34 consumer.go:48: DEBUG: stopped heartbeat for group Countries-Group-1
+[hl7_countries] 2024/11/05 10:56:34 consumer.go:48: DEBUG: Leaving group Countries-Group-1, member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-83afbc1e-7eb9-4ea9-9881-5ec476692cd6
+[hl7_countries] 2024/11/05 10:56:34 consumer.go:48: INFO: Kafka consumer has been stopped.
+[hl7_cities] 2024/11/05 10:56:34 consumer.go:48: INFO: Received termination signal. Shutting down...
+[hl7_cities] 2024/11/05 10:56:34 consumer.go:48: ERROR: Lost connection to Kafka. Shutting down consumer and retrying in 5 seconds...
+[hl7_cities] 2024/11/05 10:56:35 consumer.go:48: INFO: Kafka consumer has been stopped.
+[hl7_countries] 2024/11/05 10:58:31 consumer.go:48: INFO: Starting Kafka consumer...
+[hl7_countries] 2024/11/05 10:58:31 consumer.go:48: DEBUG: entering loop for consumer group, Countries-Group-1
+[hl7_countries] 2024/11/05 10:58:31 consumer.go:48: DEBUG: joined group Countries-Group-1 as member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-54fba3eb-3b57-469d-9851-e0b4966baba9 in generation 57
+[hl7_countries] 2024/11/05 10:58:31 consumer.go:48: DEBUG: selected as leader for group, Countries-Group-1
+[hl7_cities] 2024/11/05 10:58:31 consumer.go:48: INFO: Starting Kafka consumer...
+[hl7_countries] 2024/11/05 10:58:31 consumer.go:48: DEBUG: using 'range' balancer to assign group, Countries-Group-1
+[hl7_countries] 2024/11/05 10:58:31 consumer.go:48: DEBUG: found member: gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-54fba3eb-3b57-469d-9851-e0b4966baba9/[]byte(nil)
+[hl7_countries] 2024/11/05 10:58:31 consumer.go:48: DEBUG: found topic/partition: countries/0
+[hl7_countries] 2024/11/05 10:58:31 consumer.go:48: DEBUG: assigned member/topic/partitions gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-54fba3eb-3b57-469d-9851-e0b4966baba9/countries/[0]
+[hl7_countries] 2024/11/05 10:58:31 consumer.go:48: DEBUG: joinGroup succeeded for response, Countries-Group-1.  generationID=57, memberID=gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-54fba3eb-3b57-469d-9851-e0b4966baba9
+[hl7_countries] 2024/11/05 10:58:31 consumer.go:48: DEBUG: Joined group Countries-Group-1 as member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-54fba3eb-3b57-469d-9851-e0b4966baba9 in generation 57
+[hl7_countries] 2024/11/05 10:58:31 consumer.go:48: DEBUG: Syncing 1 assignments for generation 57 as member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-54fba3eb-3b57-469d-9851-e0b4966baba9
+[hl7_countries] 2024/11/05 10:58:31 consumer.go:48: DEBUG: sync group finished for group, Countries-Group-1
+[hl7_countries] 2024/11/05 10:58:31 consumer.go:48: DEBUG: started heartbeat for group, Countries-Group-1 [3s]
+[hl7_countries] 2024/11/05 10:58:31 consumer.go:48: DEBUG: subscribed to topics and partitions: map[{topic:countries partition:0}:699]
+[hl7_countries] 2024/11/05 10:58:31 consumer.go:48: DEBUG: started commit for group Countries-Group-1
+[hl7_countries] 2024/11/05 10:58:35 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:58:35 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:58:35 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:58:35 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 700
+[hl7_countries] 2024/11/05 10:58:37 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:58:37 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:58:37 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:58:37 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 701
+[hl7_countries] 2024/11/05 10:58:39 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:58:39 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:58:39 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:58:39 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 702
+[hl7_countries] 2024/11/05 10:58:41 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:58:41 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:58:41 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:58:41 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 703
+[hl7_countries] 2024/11/05 10:58:43 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:58:43 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:58:43 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:58:43 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 704
+[hl7_countries] 2024/11/05 10:58:45 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:58:45 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:58:45 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:58:45 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 705
+[hl7_countries] 2024/11/05 10:58:47 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:58:47 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:58:47 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:58:47 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 706
+[hl7_countries] 2024/11/05 10:58:49 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:58:49 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:58:49 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:58:49 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 707
+[hl7_countries] 2024/11/05 10:58:51 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:58:51 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:58:51 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:58:51 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 708
+[hl7_countries] 2024/11/05 10:58:53 consumer.go:48: DEBUG: Handler1 processing message with settings: map[lab_codes:map[ignore:[one two three] rules:[map[action:dance name:name]]] mappings:map[code:12345 replacewith:232323]]
+[hl7_countries] 2024/11/05 10:58:53 consumer.go:48: INFO: Using code mapping: 12345
+[hl7_countries] 2024/11/05 10:58:53 consumer.go:48: INFO: Replace code with: 232323
+[hl7_countries] 2024/11/05 10:58:53 consumer.go:48: DEBUG: committed offsets for group Countries-Group-1: 
+	topic: countries
+		partition 0: 709
+[hl7_countries] 2024/11/05 11:17:48 consumer.go:48: INFO: Received termination signal. Shutting down...
+[hl7_countries] 2024/11/05 11:17:48 consumer.go:48: DEBUG: stopped commit for group Countries-Group-1
+[hl7_countries] 2024/11/05 11:17:48 consumer.go:48: DEBUG: stopped heartbeat for group Countries-Group-1
+[hl7_countries] 2024/11/05 11:17:48 consumer.go:48: ERROR: Lost connection to Kafka. Shutting down consumer and retrying in 5 seconds...
+[hl7_countries] 2024/11/05 11:17:48 consumer.go:48: DEBUG: Leaving group Countries-Group-1, member gokafka.exe@RGI-TOWER (github.com/segmentio/kafka-go)-54fba3eb-3b57-469d-9851-e0b4966baba9
+[hl7_countries] 2024/11/05 11:17:48 consumer.go:48: INFO: Kafka consumer has been stopped.
+[hl7_cities] 2024/11/05 11:17:48 consumer.go:48: INFO: Received termination signal. Shutting down...
+[hl7_cities] 2024/11/05 11:17:48 consumer.go:48: ERROR: Lost connection to Kafka. Shutting down consumer and retrying in 5 seconds...
+[hl7_cities] 2024/11/05 11:17:48 consumer.go:48: INFO: Kafka consumer has been stopped.
